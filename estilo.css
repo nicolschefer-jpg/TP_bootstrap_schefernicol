@@ -1,0 +1,147 @@
+
+header{ 
+    text-align: center;
+    background-image: url(https://tse1.mm.bing.net/th/id/OIP.SXBVpb_nZ3s4E8aMxwDPoQHaEH?r=0&rs=1&pid=ImgDetMain&o=7&rm=3);
+    padding: 50PX;
+    height:300px;
+   color: aliceblue;
+   font-size: 45px;
+    width: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    background-color: #0e1636;
+    padding: 10px;
+    width: 80%;
+    margin: auto;
+    color: aliceblue;
+}
+section{
+    font-size: 25px;
+    text-align: center;
+    margin: auto;
+    color: aliceblue;
+     background-color: rgb(175, 175, 165);
+    height: auto;
+  
+    width: 80%;
+
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: #0e1636;
+    padding: 10px;
+    width: 80%;
+    margin: auto;
+    color: aliceblue;
+}
+#carouselExample{
+background-color: aliceblue;
+height: 200px;
+text-align: center;
+color: #0e1636;
+padding: 50px;
+width: 70%;
+margin: auto;
+}
+h3{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: #0e1636;
+    padding: 2%;
+    width: 80%;
+    margin: auto; 
+    color: aliceblue;
+}
+h4{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: #0e1636;
+    padding: 2%;
+    width: 80%;
+    margin: auto; 
+    color: aliceblue;  
+}
+th{
+     margin: auto;
+     width: 20%;
+      padding: 10px;
+       border: 2px solid  #030404;
+    color: #0e1636;
+}
+td{
+     width: 20%;
+    padding: 10px;
+  border: 2px solid  #030404;
+}
+table{
+    width: 80%;
+    margin: auto;
+  color: aliceblue;  
+}
+
+
+#tarjeta_index{
+    width: 70%;
+    margin: auto;
+    height: auto;
+    font-size: 30px;
+}
+
+#doton_iniciativa{
+    margin: auto;
+
+}
+
+.container-fluid{
+    font-size: 26px;
+}
+.cont{
+    display: grid;
+    grid-template-areas:  
+    "tarjeta tarjeta tarjeta"
+    "tarjeta tarjeta tarjeta"
+    "tarjeta tarjeta tarjeta";
+    gap: 20px;
+    font-size: 25px;
+    text-align: center;
+    margin: auto;
+   background-color: rgb(175, 175, 165);
+    height: auto;
+    color: aliceblue;
+    width: 80%;
+
+}
+.card-body{
+    height: 700px;
+}
+body{
+     color: aliceblue;
+     background-color: rgb(175, 175, 165);
+}
+.colapse_section{
+    width: 100%;
+
+}
+.cont_colapse{
+  display: grid;
+  grid-template-areas:  
+  "cont1 cont1 cont1 cont1";
+}
+#collapseWidthExample{
+    height: auto;
+    width: 80%;
+    font-size: 20px;
+    color: #000;
+}
+#collapseExample
+{
+    height:auto;
+    width: 80%;
+    font-size: 20px;
+    color: #000;
+    margin: auto;
+}
